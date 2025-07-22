@@ -11,7 +11,7 @@ const fileInput = document.getElementById("file-input");
 const start = new Audio("./sounds/start.mp3");
 const teleop = new Audio("./sounds/teleop.mp3");
 const end = new Audio("./sounds/endbuzzer.mp3");
-const endgame = new Audio("./sounds/whistle.mp3");
+const endgame = new Audio("./sounds/sonar_ping.mp3");
 
 start.preload = "auto";
 end.preload = "auto";
