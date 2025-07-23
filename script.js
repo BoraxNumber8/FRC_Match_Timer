@@ -27,7 +27,7 @@ var initialTime = 135;
  */
 const BUZZER_TIMES = {
   TELEOP: 120,
-  ENDGAME: 30,
+  ENDGAME: 20,
 };
 
 timeDisplay.innerHTML = formatDisplayTime(initialTime);
